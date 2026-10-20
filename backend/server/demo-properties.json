@@ -1,0 +1,102 @@
+[
+  {
+    "id": "family-home",
+    "title": "Room for your next chapter",
+    "type": "Residential",
+    "purpose": "Buy",
+    "category": "Family home",
+    "location": "Lagos · example location",
+    "image": "/assets/home.jpg",
+    "alt": "Residential house surrounded by landscaping",
+    "summary": "An illustrative family home for exploring your preferred layout, neighbourhood and budget.",
+    "features": [
+      "Family living",
+      "Outdoor space",
+      "Residential use"
+    ],
+    "description": "An illustrative family home for exploring your preferred layout, neighbourhood and budget.",
+    "status": "available",
+    "is_example": true,
+    "featured": true
+  },
+  {
+    "id": "city-apartment",
+    "title": "A calmer kind of city living",
+    "type": "Residential",
+    "purpose": "Rent",
+    "category": "Apartment",
+    "location": "Lagos · example location",
+    "image": "/assets/hero.jpg",
+    "alt": "Bright contemporary apartment interior",
+    "summary": "An illustrative apartment for discussing rental requirements, space and everyday convenience.",
+    "features": [
+      "Open living area",
+      "Natural light",
+      "Residential use"
+    ],
+    "description": "An illustrative apartment for discussing rental requirements, space and everyday convenience.",
+    "status": "available",
+    "is_example": true,
+    "featured": true
+  },
+  {
+    "id": "business-space",
+    "title": "Make room for your business",
+    "type": "Commercial",
+    "purpose": "Rent",
+    "category": "Office space",
+    "location": "Lagos · example location",
+    "image": "/assets/office.jpg",
+    "alt": "Contemporary office interior",
+    "summary": "An illustrative commercial space for discussing the needs of your team and business.",
+    "features": [
+      "Workspace",
+      "Commercial use",
+      "Flexible requirements"
+    ],
+    "description": "An illustrative commercial space for discussing the needs of your team and business.",
+    "status": "available",
+    "is_example": true,
+    "featured": true
+  },
+  {
+    "id": "commercial-purchase",
+    "title": "A foundation for your ambition",
+    "type": "Commercial",
+    "purpose": "Buy",
+    "category": "Commercial property",
+    "location": "Lagos · example location",
+    "image": "/assets/office.jpg",
+    "alt": "Illustrative commercial workspace",
+    "summary": "A commercial purchase example. Discuss suitable locations, access and property specifications with our team.",
+    "features": [
+      "Business premises",
+      "Commercial purchase",
+      "Location planning"
+    ],
+    "description": "A commercial purchase example. Discuss suitable locations, access and property specifications with our team.",
+    "status": "available",
+    "is_example": true,
+    "featured": true
+  },
+  {
+    "id": "land-opportunity",
+    "title": "Imagine what comes next",
+    "type": "Land",
+    "purpose": "Buy",
+    "category": "Land enquiry",
+    "location": "Lagos · example location",
+    "image": "/assets/home.jpg",
+    "alt": "Illustrative house showing a possible future development",
+    "summary": "A land enquiry example. The image illustrates a potential residential use, not an actual plot for sale.",
+    "features": [
+      "Land enquiry",
+      "Intended use discussion",
+      "Documentation review"
+    ],
+    "description": "A land enquiry example. The image illustrates a potential residential use, not an actual plot for sale.",
+    "status": "available",
+    "is_example": true,
+    "featured": true
+  }
+]
